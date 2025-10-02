@@ -1,4 +1,4 @@
-*LocalPlayer = game:GetService("Players").LocalPlayer
+LocalPlayer = game:GetService("Players").LocalPlayer
 Camera = workspace.CurrentCamera
 VirtualUser = game:GetService("VirtualUser")
 MarketplaceService = game:GetService("MarketplaceService")
